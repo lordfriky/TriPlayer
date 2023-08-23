@@ -1,4 +1,5 @@
 #include <cstring>
+#include <algorithm>
 #include "utils/nx/Button.hpp"
 
 namespace NX {
